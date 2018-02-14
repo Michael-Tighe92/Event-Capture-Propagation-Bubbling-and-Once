@@ -1,2 +1,3 @@
 # Event-Capture-Propagation-Bubbling-and-Once
-Created using Event Capture, Propagation, Bubbling and Once (JavaScript30)
+
+- A Javascript project using Event Capture, Propagation, Bubbling and Once.
